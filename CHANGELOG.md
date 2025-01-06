@@ -1,5 +1,19 @@
 # Changelog
 
+## [12.2.0](https://github.com/zakodium-oss/react-science/compare/v12.1.0...v12.2.0) (2025-01-06)
+
+
+### Features
+
+* **Table:** add scrollToRowRef prop to the Table component ([#816](https://github.com/zakodium-oss/react-science/issues/816)) ([49cd819](https://github.com/zakodium-oss/react-science/commit/49cd819126c7fe1b361c45587c4f259f808cdc82))
+
+
+### Bug Fixes
+
+* add stylelint and fix CSS errors ([#845](https://github.com/zakodium-oss/react-science/issues/845)) ([238e55a](https://github.com/zakodium-oss/react-science/commit/238e55a18f9a86ed675a8bf4c702d82a7d8c2253))
+* allow to search with `yes` or `no` ([#850](https://github.com/zakodium-oss/react-science/issues/850)) ([dd3cb39](https://github.com/zakodium-oss/react-science/commit/dd3cb3995240d87af4d4ffafa28dd3d5a236e06c))
+* **Menus:** do not overflow divider ([#848](https://github.com/zakodium-oss/react-science/issues/848)) ([1c9d33d](https://github.com/zakodium-oss/react-science/commit/1c9d33d36009d4efada5c2d87db2c2d7e9509cc6))
+
 ## [12.1.0](https://github.com/zakodium-oss/react-science/compare/v12.0.0...v12.1.0) (2024-12-11)
 
 
